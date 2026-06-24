@@ -1,2 +1,19 @@
+# Archiso build output
 work/
 out/
+*.iso
+aur/
+# Built Arch packages
+packages/**/*.pkg.tar.zst
+packages/**/*.pkg.tar.zst.sig
+
+# makepkg output
+packages/*/pkg/
+packages/*/src/
+aur/*/pkg/
+aur/*/src/
+
+# Temporary files
+*.log
+*.tmp
+*~

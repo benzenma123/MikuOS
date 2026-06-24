@@ -1,0 +1,39 @@
+---
+componentName: mikuos
+
+welcomeStyleCalamares: false
+welcomeExpandingLogo: true
+
+windowExpanding: normal
+windowSize: 900px,600px
+windowPlacement: center
+
+sidebar: widget
+navigation: widget
+
+strings:
+    productName: "MikuOS"
+    shortProductName: "MikuOS"
+    version: "Rolling"
+    shortVersion: "Rolling"
+    versionedName: "MikuOS Rolling"
+    shortVersionedName: "MikuOS"
+    bootloaderEntryName: "MikuOS"
+    productUrl: ""
+    supportUrl: ""
+    knownIssuesUrl: ""
+    releaseNotesUrl: ""
+    donateUrl: ""
+
+images:
+    productIcon: "logo.png"
+    productLogo: "logo.png"
+    productWelcome: "logo.png"
+
+style:
+    SidebarBackground: "#183B3B"
+    SidebarText: "#FFFFFF"
+    SidebarTextCurrent: "#FFFFFF"
+    SidebarBackgroundCurrent: "#39C5BB"
+
+slideshow: []

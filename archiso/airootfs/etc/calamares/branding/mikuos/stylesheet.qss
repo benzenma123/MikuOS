@@ -1,0 +1,17 @@
+QWidget {
+    font-size: 10pt;
+}
+
+#sidebarApp {
+    background-color: #183B3B;
+}
+
+QPushButton {
+    padding: 7px 14px;
+    border-radius: 5px;
+}
+
+QPushButton:hover {
+    background-color: #39C5BB;
+    color: #102A2A;
+}
