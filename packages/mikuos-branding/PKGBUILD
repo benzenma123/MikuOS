@@ -1,0 +1,13 @@
+pkgname=mikuos-branding
+  pkgver=0.1
+  pkgrel=1
+  pkgdesc="Branding assets for MikuOS"
+  arch=('any')
+  license=('custom')
+  source=('mikuos-wallpaper.jpg')
+  sha256sums=('SKIP')
+
+  package() {
+      install -Dm644 "$srcdir/mikuos-wallpaper.jpg" \
+          "$pkgdir/usr/share/wallpapers/MikuOS/contents/images/1920x1080.jpg"
+  }
