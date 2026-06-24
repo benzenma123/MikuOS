@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=MikuOS Wallpaper
+Exec=plasma-apply-wallpaperimage /usr/share/wallpapers/MikuOS/contents/images/1920x1080.jpg
+OnlyShowIn=KDE;
+X-KDE-autostart-after=panel

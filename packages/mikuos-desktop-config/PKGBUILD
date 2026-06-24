@@ -1,0 +1,14 @@
+ pkgname=mikuos-desktop-config
+  pkgver=0.1
+  pkgrel=1
+  pkgdesc="Default KDE Plasma configuration for MikuOS"
+  arch=('any')
+  license=('custom')
+  depends=('plasma-workspace' 'mikuos-branding')
+  source=('mikuos-wallpaper.desktop')
+  sha256sums=('SKIP')
+
+  package() {
+      install -Dm644 "$srcdir/mikuos-wallpaper.desktop" \
+          "$pkgdir/etc/xdg/autostart/mikuos-wallpaper.desktop"
+  }
