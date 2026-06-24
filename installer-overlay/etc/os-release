@@ -1,0 +1,7 @@
+NAME="MikuOS"
+PRETTY_NAME="MikuOS Rolling"
+ID=mikuos
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;57;197;187"
+LOGO=mikuos
