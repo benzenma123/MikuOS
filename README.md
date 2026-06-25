@@ -34,10 +34,7 @@ sha256sum -c SHA256SUMS
 ## Preview
 
 <p align="center">
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/20dbaf1e-e7ad-403e-bcf0-5846f134a918" />
-</p>
-<p align="left">
-  <img width="800" height="512" alt="image" src="https://github.com/user-attachments/assets/174ed7d7-5bdb-410e-a61d-e84ba6dd731d" />
+<img width="1902" height="1021" alt="image" src="https://github.com/user-attachments/assets/81ff215f-0139-4baa-8044-073043d4fec2" />
 </p>
 
 ## License
