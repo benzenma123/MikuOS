@@ -110,3 +110,5 @@ Recommended release naming:
 v0.1.0-prealpha
 v0.1.1-prealpha
 ```
+## NOTE:
+Change the line had the <name> to your User
